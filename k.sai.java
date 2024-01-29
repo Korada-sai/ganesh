@@ -2,7 +2,7 @@ class test
 {
 	public static void main(String args[])
 	{
-		int num=10,rem=0,sum=0,mul;
+		int num=20,rem=0,sum=0,mul;
 		mul=num*num;
 		while(mul>0)
 		{
