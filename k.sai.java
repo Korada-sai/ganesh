@@ -2,7 +2,7 @@ class test
 {
 	public static void main(String args[])
 	{
-		int num=9,rem=0,sum=0,mul;
+		int num=10,rem=0,sum=0,mul;
 		mul=num*num;
 		while(mul>0)
 		{
@@ -14,7 +14,7 @@ class test
 		if(sum==num)
 		System.out.println("Evil number");
 		else
-		System.out.println("non Evil number");
+		System.out.println("not Evil number");
 	}
 }
 
