@@ -2,7 +2,7 @@ class test
 {
 	public static void main(String args[])
 	{
-		int num=20,rem=0,sum=0,mul;
+		int num=21,rem=0,sum=0,mul;
 		mul=num*num;
 		while(mul>0)
 		{
@@ -22,7 +22,7 @@ class power
 {
 	public static void main(String args[])
 	{
-		int num=132,rem=0,sum=0,mul=1;
+		int num=131,rem=0,sum=0,mul=1;
 		while(num>0)
 		{
 			rem=num%10;
